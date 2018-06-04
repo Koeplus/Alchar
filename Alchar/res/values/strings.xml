@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ALChar</string>
+    <string name="apakah_anda_yakin_ingin_mengikuti_event_ini">Apakah anda yakin ingin mengikuti event ini?</string>
+    <string name="join_title">JOIN Event</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
